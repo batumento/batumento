@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Swift**
 
-- 🌱 I’m currently learning **Swift, SwiftUI, Combine**
+- 🌱 I’m currently learning **Swift, SwiftUI, Flutter**
 
 - 📫 How to reach me **batuhanavniemiroglu@gmail.com**
 
