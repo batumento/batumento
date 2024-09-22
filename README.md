@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Batuhan</h1>
 <h3 align="center">A passionate iOS developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **Swift**
+- 🔭 I’m currently working on **Go, Flutter, SwiftUI**
 
-- 🌱 I’m currently learning **Swift, SwiftUI, Flutter**
+- 🌱 I’m currently learning **Microservices, Cloud providers, Go (Programming Language)**
 
 - 📫 How to reach me **batuhanavniemiroglu@gmail.com**
 
