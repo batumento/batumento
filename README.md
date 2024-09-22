@@ -42,6 +42,10 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+      <br>Unity
+    </td>
  </tr>
  <tr>
     <td align="center" width="96"> 
@@ -69,12 +73,8 @@
       <br>Firebase
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Firebase" />
+        <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" />
       <br>Unreal Engine
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Firebase" />
-      <br>Unity
     </td>
  </tr>
 </table>
