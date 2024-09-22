@@ -30,8 +30,8 @@
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="65" height="65" />
+      <td align="center" width="86">
+        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="55" height="55" />
       <br>Go
     </td>
     <td align="center" width="96">
