@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Go, Flutter, SwiftUI**
 
-- 🌱 I’m currently learning **Microservices, Cloud providers, Go (Programming Language)**
+- 🌱 I’m currently learning **Go, Microservices, Cloud providers**
 
 - 📫 How to reach me **batuhanavniemiroglu@gmail.com**
 
