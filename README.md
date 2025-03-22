@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Batuhan</h1>
 <h3 align="center">A passionate Mobile Developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **Go, Flutter, SwiftUI**
+- 🔭 I’m currently working on **GCP, Docker, Go, PHP, Flutter, React Framework**
 
 - 🌱 I’m currently learning **Go, Microservices, Cloud providers**
 
