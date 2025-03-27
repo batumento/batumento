@@ -1,9 +1,25 @@
-<h1 align="center">Hi , I'm Batuhan</h1>
-<h3 align="center">A passionate Mobile Developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **GCP, Docker, Go, PHP, Flutter, React Framework**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=batumento&label=Profile%20views&color=3584E4&style=flat" alt="batumento's profile views" />
+</div>
+<h1 align="center">Hi 👋, I'm Batuhan</h1>
+<h3 align="center">A passionate Software Developer from Turkiye</h3>
 
-- 🌱 I’m currently learning **Go, Microservices, Cloud providers**
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3584E4&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Enthusiast;Cloud+Architecture;Always+learning+new+things)](https://git.io/typing-svg)
+
+</div>
+
+- 🔭 I'm currently working on **GCP, Docker, Go, PHP, Flutter, React Framework**
+
+- 🌱 I'm currently learning **Go, Microservices, Cloud providers**
+
+- 🚀 I'm particularly interested in **AI, AI Agents, AI Orchestration and MCP (Model Context Protocol) Server**
+
+- 👨‍💻 All of my projects are available at [https://github.com/batumento](https://github.com/batumento)
+
+- 💬 Ask me about **Mobile Development, Front-end Development, Back-end Development and AI Integration**
 
 - 📫 How to reach me **batuhanavniemiroglu@gmail.com**
 
@@ -42,7 +58,7 @@
         <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
       <br>Flutter
     </td>
-                  <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Jenkins" />
       <br>Docker
     </td>
@@ -72,17 +88,46 @@
         <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" />
       <br>Unreal Engine
     </td>
-       <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
       <br>Unity
     </td>
  </tr>
 </table>
-<br><br>
+<br>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batumento&show_icons=true&locale=en&layout=compact" alt="batumento" /></p>
+<h2 align="center">🤖 AI Technologies I'm Exploring 🧠</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batumento&show_icons=true&locale=en" alt="batumento" /></p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="48" height="48" alt="AI"/>
+      <br>AI
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/000000/bot.png" width="48" height="48" alt="AI Agents"/>
+      <br>AI Agents
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/000000/workflow.png" width="48" height="48" alt="AI Orchestration"/>
+      <br>AI&nbsp;Orchestration
+    </td>
+<td align="center" width="96">
+      <img src="https://img.icons8.com/fluency/96/usb-connector.png" width="48" height="48" alt="MCP"/>
+      <br>MCP&nbsp;Server
+    </td>
+   <td align="center" width="96">
+      <img src="https://img.icons8.com/color/96/000000/light-automation.png" width="48" height="48" alt="Prompt Engineering"/>
+      <br>Prompt&nbsp;Engineering
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batumento&" alt="batumento" /></p>
+
+<div align="center">
+  <a href="https://github.com/batumento">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=batumento&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=batumento&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</div>
