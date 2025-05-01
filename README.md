@@ -11,7 +11,7 @@
 
 </div>
 
-- 🔭 I'm currently working on **GCP, Docker, Go, PHP, Flutter, React Framework**
+- 🔭 I'm currently working on **GCP, Docker, Go, PHP, Flutter, React.js**
 
 - 🌱 I'm currently learning **Microservices, LLMOps, MCP Server**
 
