@@ -88,7 +88,7 @@
         <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" />
       <br>Unreal Engine
     </td>
-       <td align="center" width="96">More actions
+       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
       <br>Unity
     </td>
